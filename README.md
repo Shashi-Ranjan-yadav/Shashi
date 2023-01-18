@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **B.tech(CSE)**
 
-- 👨‍💻 All of my projects are available at [iampro.tech](iampro.tech)
+- 👨‍💻 One of my best projects are [tweetkr.com](tweetkr.com)
 
 - 📝 I regularly write articles on [iampro.tech](iampro.tech)
 
